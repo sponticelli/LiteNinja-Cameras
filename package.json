@@ -1,0 +1,22 @@
+{
+    "name": "com.liteninja.cameras",
+    "version": "1.0.0",
+    "displayName": "LiteNinja Cameras",
+    "description": "A collection of utilities to for Unity3D cameras",
+    "unity": "2021.1",
+    "documentationUrl": "https://github.com/sponticelli/LiteNinja-Cameras/blob/main/README.md",
+    "changelogUrl": "https://github.com/sponticelli/LiteNinja-Cameras/blob/main/changelog.md",
+    "licensesUrl": "https://github.com/sponticelli/LiteNinja-Cameras/blob/main/LICENSE",
+    "dependencies": {
+    },
+    "keywords": [
+      "utility",
+      "Camera",
+      "utils"
+    ],
+    "author": {
+      "name": "Sandro Ponticelli",
+      "email": "sandro.ponticelli@gmail.com",
+      "url": "https://github.com/sponticelli"
+    }
+  }

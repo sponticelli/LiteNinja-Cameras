@@ -1,2 +1,2 @@
 # LiteNinja-Cameras
-A collection of utility to for Unity3D cameras
+A collection of utilities to for Unity3D cameras
